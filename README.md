@@ -1,6 +1,6 @@
 下方的电子书如果有链接失效了，随时联系我噢，扫描下方的二维码关注公众号[「Python读财」](https://mp.weixin.qq.com/s/LarikGuhaAvUZ6sqWDFShw)，后台留言失效的链接，我在看到后会更新！
 
-![image](https://github.com/Harry3W/Data-Analysis/blob/master/%E5%BA%95%E9%83%A8%E4%BA%8C%E7%BB%B4%E7%A0%811.png)
+
 
 # 数据分析PDF书籍
 
